@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.summaryContainer {
+  align-self: flex-end;
+  padding: 10px;
+}
+.totalCost {
+  font-size: 20px;
+  font-weight: bold;
+}
+.checkout {
+  background-color: #0b69ff;
+  width: 200px;
+  border-radius: 5px;
+  padding: 8px;
+  border: 0px solid;
+  color: white;
+}
